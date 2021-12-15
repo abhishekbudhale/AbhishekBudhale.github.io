@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hrushikeshbudhale&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikeshbudhale" /> </p>
 
-<h1 align="center">Hi 👋, I'm Hrushikesh</h1>
-<h3 align="center">A passionate Robotics engineer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Hrushikesh</h1>
+<h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I'm a robotics engineer who is passionate about working on cool projects and help others in solving challenging problems. 
+I'm a robotics engineer who is passionate about working on cool projects and help others solving challenging problems. 
 I enjoy working on sensor fusion and perception related applications. 
 In the past, I have worked on multiple robotics related projects, including autonomous arial and ground vehicles. 
 </p>
@@ -13,11 +13,11 @@ In the past, I have worked on multiple robotics related projects, including auto
 
 - 🔭 I’m currently working on [Decluttering Domestic Robot](https://github.com/HrushikeshBudhale/decluttering_domestic_robot)
 
-- 🌱 Currently pursuing **Master's degree in robotics**
+- 🌱 Pursuing **Master's degree in robotics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HrushikeshBudhale/](https://github.com/HrushikeshBudhale/)
 
-- 💬 You can ask me about **Controls, Perception, Planning or Robotics in general**
+- 💬 You can ask me about **Controls, Perception, Planning or anything related to Robotics**
 
 - 📄 Know about my experiences [link](link)
 
