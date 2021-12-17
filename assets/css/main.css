@@ -72,6 +72,20 @@ input, select, textarea {
 	appearance: none;
 }
 
+.circular--landscape { 
+	display: inline-block; 
+	position: relative; 
+	width: 400px;
+	height: 400px;
+	overflow: hidden;
+	border-radius: 50%;
+	margin-bottom: 50px;
+} 
+
+.circular--landscape img {
+	width: auto;
+	height: 100%;
+}
 /* Basic */
 
 	@-ms-viewport {
