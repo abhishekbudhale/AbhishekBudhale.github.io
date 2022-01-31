@@ -142,3 +142,17 @@ function navHighlighter() {
 	  }
 	});
   }
+
+//Get the button:
+scroll_up_button = document.getElementById("scrollUpBtn");
+
+// When the user scrolls down 450px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 450 || document.documentElement.scrollTop > 450) {
+    scroll_up_button.style.display = "block";
+  } else {
+    scroll_up_button.style.display = "none";
+  }
+}
